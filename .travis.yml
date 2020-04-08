@@ -22,8 +22,8 @@ deploy:
   edge: true
   api-key: 
     secure: $HEROKU_API_KEY
-  app: code-devopslab-helloworld
+  app: devopslab-angola
   on:
     branch: master
-    repo: https://github.com/Kennyreliquia/DevOpsLab-HelloWorld.git # GitHub Repo
+    repo: https://github.com/gsadmin0101/DevOpsLab-HelloWorld.git
 
